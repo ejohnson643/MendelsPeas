@@ -1,8 +1,0 @@
-name: MendelPeas
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python
-  - matplotlib
-  - numpy
