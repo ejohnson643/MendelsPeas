@@ -7,4 +7,4 @@ In this brief demonstration, we will practice the skills involved in performing 
 - Simulating this hypothesis
 - Comparing our data to the hypothesis
 
-Please click on the binder badge to activate the notebook in an interactive browser.
+Please click on the binder badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ejohnson643/MendelsPeas/main?labpath=MendelsPeas_LiveCodingExercise.ipynb)to activate the notebook in an interactive browser.
