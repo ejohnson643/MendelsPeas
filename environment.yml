@@ -6,4 +6,3 @@ dependencies:
   - python
   - matplotlib
   - numpy
-prefix: /opt/homebrew/Caskroom/mambaforge/base/envs/MendelPeas
