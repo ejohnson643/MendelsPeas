@@ -1,4 +1,3 @@
-name: MendelPeas
 channels:
   - conda-forge
   - defaults
@@ -6,4 +5,3 @@ dependencies:
   - python
   - matplotlib
   - numpy
-prefix: /opt/homebrew/Caskroom/mambaforge/base/envs/MendelPeas
